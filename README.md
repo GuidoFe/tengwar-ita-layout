@@ -1,4 +1,4 @@
-# Layout Tengwar Unicode per tastiere italiane QWERTY
+# Layout Tengwar Unicode per tastiere italiane QWERTY (Linux)
 
 Questo progetto è basato sul lavoro di Free Tengwar Font project, su [freetengwar.sourceforge.net](freetengwar.sourceforge.net).
 
