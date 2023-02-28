@@ -42,7 +42,7 @@ xkb_symbols "basic"
 	key <AC08> { [          UE003,          UE00B,          UE01B                 ] };
 	key <AC09> { [          UE022,          UE023                                 ] };
 	key <AC10> { [          U10FB,          U205D,          U003B,          U003A ] };
-	key <AC11> { [          UE017,       NoSymbol,          U2019                 ] }; // AC11 -> AE11
+	key <AE11> { [          UE017,       NoSymbol,          U2019                 ] }; // AC11 -> AE11
 	key <AD01> { [          UE029,          UE039,          UE03C,          UE037 ] };
 	key <AD02> { [          UE015,          UE052,          UE031,          UE03D ] };
 	key <AD03> { [          UE046,          UE02A,          UE047,          UE055 ] };
